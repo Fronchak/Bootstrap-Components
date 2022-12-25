@@ -1,0 +1,38 @@
+.card {
+    cursor: pointer;
+}
+
+.card .card-img-top {
+    height: 250px;
+}
+
+.product-old-price {
+    margin-bottom: 1px;
+    color: rgb(128, 128, 128);
+    font-size: 12px;
+}
+
+.product-sale-price {
+    color: rgb(64, 64, 64);
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 1px;
+}
+
+.product-avaliation {
+    margin: 0;
+}
+
+.product-avaliation i {
+    color: rgb(252, 208, 0);
+    font-size: 10px;
+}
+
+.product-avaliation span {
+    color: rgb(128, 128, 128);
+    font-size: 12px;
+}
+
+#products-card-container div {
+    margin-bottom: 10px;
+}
